@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooKyoung%20Github&fontSize=90&animation=twinkling)
 
-<h1 align="center">
-😎 백엔드 개발자 권수경입니다! 😎
-</h1>
+<div align="center">
+  
+  <h1>😎 백엔드 개발자 권수경입니다 😎</h1>
+
+</div>
 
