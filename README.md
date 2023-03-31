@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **rosencrantz96/rosencrantz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooKyoung%20Github&fontSize=90&animation=twinkling)
+
+<h1 align="center">
+😎 백엔드 개발자 권수경입니다! 😎
+</h1>
+
