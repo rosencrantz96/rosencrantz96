@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 <div>
   <h2> 🔗 Social 🔗 </h2>
-  <a href="[연결하고싶은링크](https://github.com/rosencrantz96)"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[연결하고싶은링크](https://velog.io/@rosencrantz96)"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://github.com/rosencrantz96"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://velog.io/@rosencrantz96"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"></a>
 </div>
 
 <br>
