@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 topgdvidsyb@gmail.com
 
 <h3> ⚡ me ⚡ </h3>
-- 문과출신... 비전공자입니다 
-- 이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수업을 수료했습니다 (2022.10.05~2023.03.10)
+- 비전공자입니다 <br>
+- 이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수업을 수료했습니다 (2022.10.05~2023.03.10) <br>
 - MBTI: ENTP
 
 
