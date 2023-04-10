@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
-
+<br>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosencrantz96&layout=compact&theme=dracula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <a href="[연결하고싶은링크](https://github.com/rosencrantz96)"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="[연결하고싶은링크](https://velog.io/@rosencrantz96)"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"></a>
 </div>
+
+<br>
 
   ![SooKyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosencrantz96&theme=dracula&show_icons=true)
   
