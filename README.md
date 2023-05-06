@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooKyoung%20Github&fontSize=90&animation=twinkling)
   
-  <h1>😎 백엔드 개발자 권수경입니다 😎</h1>
+  <h1>😎 신입 개발자 권수경입니다 😎</h1>
   🌱 이제 막 발을 내딛은 신입 개발자입니다 🌱 <br>
   🫡 부족한 것이 많지만 더 나은 개발자가 되기 위해 노력 중입니다 🫡 <br> 
   🤓 보다 나은 코드를 위해 끊임없이 공부하고 소통하기를 즐깁니다 🤓 <br>
