@@ -60,13 +60,13 @@
   <a href="https://github.com/rosencrantz96"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://velog.io/@rosencrantz96"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"></a>
 </div>
-
+<--!
 <br>
 
   ![SooKyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosencrantz96&theme=dracula&show_icons=true)
   
   <br>
-  
+  -->
   
 
  <h3> 📫 contact 📫  </h3>
