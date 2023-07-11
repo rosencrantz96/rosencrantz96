@@ -37,7 +37,7 @@
 
 <div>
     <h2>  💻 Tech Stack 💻 </h2>
-  <h3> 📌 백엔드 </h3>
+  <h3> 📌 Backend </h3>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -47,7 +47,7 @@
   <h3> 📌 DB/API </h3>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <h3> 📌 프론트엔드 </h3>
+  <h3> 📌 Frontend </h3>
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
