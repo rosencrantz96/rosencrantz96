@@ -29,7 +29,6 @@
 <br>
 <br>
 <div>
-  <h1> 🐣 신입 백엔드 개발자 권수경입니다 🐣 </h1>
   <h2>  💻 Tech Stack 💻 </h2>
   <h3> 📌 Backend </h3>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
@@ -66,8 +65,7 @@
 topgdvidsyb@gmail.com
 
 <h3> ⚡ me ⚡ </h3>
-- 비전공자입니다 <br>
-- <strong>서울시뉴딜일자리 IT인턴 진행중 (2023.08.01~2023.10.31)</strong> <br>
+- <strong>서울시뉴딜일자리 IT인턴 수료 (2023.08.01~2023.10.31)</strong> <br>
 - 메타버스 핵심기술, 블록체인 기반의 기술사업화 전문인력 양성과정 2차 수료 (2023.05.02~2023.07.28) <br>
 - 이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수료 (2022.10.05~2023.03.10) <br>
 - MBTI: ENTP
