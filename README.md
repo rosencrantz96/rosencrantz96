@@ -28,7 +28,7 @@
 </div>
 <br>
 <br>
-<div align=center>
+<div>
   <h2>  💻 Skill 💻 </h2>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/ts-node-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 
 
-<div align=center>
+<div>
   <h2> 🔗 Social 🔗 </h2>
   <a href="https://github.com/rosencrantz96"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://velog.io/@rosencrantz96"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=velog&logoColor=white"></a>
