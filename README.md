@@ -23,35 +23,27 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooKyoung%20Github&fontSize=90&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SooKyoung%20Kwon&fontSize=90&animation=twinkling)
   
 </div>
 <br>
 <br>
 <div>
   <h2>  💻 Tech Stack 💻 </h2>
-  <h3> 📌 Backend </h3>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+    <img src="https://img.shields.io/badge/Sequelize-52b0e7?style=for-the-badge&logo=Sequelize&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-  <h3> 📌 DB</h3>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <h3> 📌 Frontend </h3>
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <h3> 📌 VERSION CONTROL </h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <h3> 📌 DEPLOYMENT </h3>
-    <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
-  <h3> 📌 COMMUNICATION </h3>
-    <img src="https://img.shields.io/badge/figma-1572B6?style=for-the-badge&logo=figma&logoColor=white">
-    <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 </div>
 
 
@@ -59,16 +51,19 @@
 <div>
   <h2> 🔗 Social 🔗 </h2>
   <a href="https://github.com/rosencrantz96"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://velog.io/@rosencrantz96"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://velog.io/@rosencrantz96"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="mailto:topgdvidsyb@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/%EC%88%98%EA%B2%BD-%EA%B6%8C-6b6ba5271/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </div>
-<h3> 📫 contact 📫  </h3>
-topgdvidsyb@gmail.com
 
-<h3> ⚡ me ⚡ </h3>
-- <strong>서울시뉴딜일자리 IT인턴 수료 (2023.08.01~2023.10.31)</strong> <br>
+
+
+<h3> ⚡ Me ⚡ </h3>
+- (주) 크로스체크 (2023.08.01~2024.04.01<br>
+- 서울시뉴딜일자리 IT인턴 수료 (2023.08.01~2023.10.31)<br>
 - 메타버스 핵심기술, 블록체인 기반의 기술사업화 전문인력 양성과정 2차 수료 (2023.05.02~2023.07.28) <br>
 - 이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수료 (2022.10.05~2023.03.10) <br>
-- MBTI: ENTP
+- MBTI: ENTP / ESTP
 
 
 
