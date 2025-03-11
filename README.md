@@ -9,8 +9,24 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5C6BB&center=true&multiline=true&width=435&lines=DevOps%2FCloud+Engineer;Back-end+Developer)](https://git.io/typing-svg)
 
 </div>
+<br>
+
+<div align="center">
+  <h1>🏫 RECENT INTERESTS</h1>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=rosencrantz96" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://velog-readme-stats.vercel.app/api?name=rosencrantz96" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
+
 <div align="center">
   <h1>👩🏻‍💻 SKILL STACK</h1>
   
