@@ -7,12 +7,21 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5C6BB&center=true&multiline=true&width=435&lines=DevOps%2FCloud+Engineer;Back-end+Developer)](https://git.io/typing-svg)
-
+  <br>
+  <div style="margin: 30px 0; max-width: 800px; text-align: center;">
+    <p>💻 기록하고 배우는 것을 좋아하며, 항상 새로운 기술에 호기심을 가진 개발자입니다.</p>
+    <p>☀️ 긍정적인 에너지로 소통하며, 좋은 개발자 동료가 되기 위해 노력합니다.</p>
+    <p>🗣️ 다양한 관심사에 대해 이야기 나누는 것을 좋아합니다. 언제든 연락주세요!</p>
+  </div>
 </div>
 <br>
 
 <div align="center">
   <h1>🏫 RECENT INTERESTS</h1>
+  
+  | 👔 취준 | ☁️ AWS 자격증 취득 | 🏃‍♀️ 아침 러닝 | 🍛 맛있는 카레 | 🐕 몰티즈 & 리트리버 | 👩🏻‍💻 코테 준비 (`해야하는데`라는 생각)
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+
   <table>
     <tr>
       <td align="center" width="50%">
