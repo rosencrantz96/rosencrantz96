@@ -21,6 +21,7 @@
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white">
       </td>
       <td align="center" width="400">
@@ -28,9 +29,11 @@
         <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white">
         <img src="https://img.shields.io/badge/Azure-008CD7?style=flat-square&logo=thealgorithms&logoColor=white">
         <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
         <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-      <img src="https://img.shields.io/badge/AmazonCognito-DD344C?style=flat-square&logo=AmazonCognito&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/AmazonCognito-DD344C?style=flat-square&logo=AmazonCognito&logoColor=white">
         <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white">
       </td>
     </tr>
@@ -40,6 +43,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
@@ -55,12 +59,15 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/ts-node-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -69,6 +76,7 @@
         <h3>🧪 Testing</h3>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
         <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
         <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
       </td>
@@ -86,6 +94,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
@@ -94,12 +103,37 @@
   </table>
 </div>
 
+<br>
 
-<h2> ⚡ Me ⚡ </h2>
+<h1 align="center">🧑🏻‍💼 CAREER</h1>
 
-* 자바-SPRING 백엔드 웹개발자 양성과정 (2024.05.09~2024.11.11)<br>
-* (주) 크로스체크 (2023.08.01~2024.04.01)<br>
-* 서울시뉴딜일자리 IT인턴 - (주) 크로스체크 (2023.08.01~2023.10.31)<br>
-* 메타버스 핵심기술, 블록체인 기반의 기술사업화 전문인력 양성과정 2차 수료 (2023.05.02~2023.07.28) <br>
-* 이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수료 (2022.10.05~2023.03.10) <br>
-* MBTI: ENTP / ESTP
+<table>
+  <tr>
+    <th width="33%" align="center">💼 경력</th>
+    <th width="33%" align="center">🏆 자격증</th>
+    <th width="33%" align="center">🎓 교육 이수</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>(주) 포투</b><br>2024.04.08 ~ 2024.07.31</li>
+        <li><b>(주) 크로스체크</b><br>2023.08.01 ~ 2024.04.01</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>정보처리기사 - 필기 합격</b><br>2024.03</li>
+        <li><b>리눅스마스터 2급</b><br>2025.01</li>
+        <li><b>네트워크관리사 2급</b><br>2024.12</li>
+        <li><b>SQLD</b><br>2024.09</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>교보DTS CDA 2기</b><br>2024.09.02 ~ 2025.02.07</li>
+        <li><b>메타버스 핵심기술, 블록체인 기반의 기술사업화 전문인력 양성과정 2차</b><br>2023.05.02 ~ 2023.07.28</li>
+        <li><b>이젠아카데미 자바(JAVA) 웹개발 프로그래밍 수료</b><br>2022.10.05 ~ 2023.03.10</li>
+      </ul>
+    </td>
+  </tr>
+</table>
